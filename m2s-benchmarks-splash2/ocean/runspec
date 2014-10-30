@@ -1,0 +1,2 @@
+exe = ocean.i386
+args = -n130 -p$NTHREADS -e1e-07 -r20000 -t28800

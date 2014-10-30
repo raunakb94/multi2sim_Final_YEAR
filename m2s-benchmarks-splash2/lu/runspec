@@ -1,0 +1,2 @@
+exe = lu.i386
+args = -p$NTHREADS -n512 -b16

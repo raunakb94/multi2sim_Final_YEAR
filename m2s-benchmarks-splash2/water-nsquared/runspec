@@ -1,0 +1,3 @@
+exe = water-nsquared.i386
+args = $NTHREADS
+stdin = input

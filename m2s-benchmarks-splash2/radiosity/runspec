@@ -1,0 +1,2 @@
+exe = radiosity.i386
+args = -batch -p $NTHREADS -en 0.5

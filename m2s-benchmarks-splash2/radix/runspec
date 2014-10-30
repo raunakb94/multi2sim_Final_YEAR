@@ -1,0 +1,2 @@
+exe = radix.i386
+args = -p$NTHREADS -r4096 -n262144 -m524288

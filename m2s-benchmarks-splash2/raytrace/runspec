@@ -1,0 +1,2 @@
+exe = raytrace.i386
+args = -p$NTHREADS balls4.env

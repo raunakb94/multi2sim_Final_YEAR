@@ -1,0 +1,2 @@
+exe = fft.i386
+args = -m18 -p$NTHREADS -n65536 -l4

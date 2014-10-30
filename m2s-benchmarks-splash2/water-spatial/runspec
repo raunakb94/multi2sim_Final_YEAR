@@ -1,0 +1,3 @@
+exe = water-spatial.i386
+args = $NTHREADS
+stdin = input

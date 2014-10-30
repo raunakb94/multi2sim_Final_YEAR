@@ -1,0 +1,3 @@
+exe = barnes.i386
+stdin = input
+args = $NTHREADS

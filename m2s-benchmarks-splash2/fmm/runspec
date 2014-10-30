@@ -1,0 +1,3 @@
+exe = fmm.i386
+stdin = input
+args = $NTHREADS
